@@ -12,3 +12,4 @@ ggplot(mtcars, aes(x = wt, y = disp)) +
 You can commit changes (an intermediary save). Every time you do this you have to create a commit message. 
 
 ## Second level header 
+when you put index.html - it will treat this as a home page. capitalization matters. 
